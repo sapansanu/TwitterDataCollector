@@ -1,6 +1,6 @@
 import time
 import tweepy
-import influence_finder as finder
+import main as finder
 
 
 def find_followee_list(screen_name):
